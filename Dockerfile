@@ -1,4 +1,4 @@
-FROM 837948344816.dkr.ecr.us-east-2.amazonaws.com/ecs-cicd-jenkins:latest
+FROM 837948344816.dkr.ecr.us-east-2.amazonaws.com/ecs-cicd-jenkins
 
 # Install dependencies
 RUN apt-get update -y
