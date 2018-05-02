@@ -1,4 +1,4 @@
-FROM 837948344816.dkr.ecr.us-east-2.amazonaws.com/MyTestProject:latest
+FROM 837948344816.dkr.ecr.us-east-2.amazonaws.com/mytestproject:latest
 
 # Install dependencies
 RUN apt-get update -y
