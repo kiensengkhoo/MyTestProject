@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "app.ClientMultiConnection/1.0.0": {
+      "aws.client/1.0.0": {
         "runtime": {
-          "app.ClientMultiConnection.dll": {}
+          "aws.client.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "app.ClientMultiConnection/1.0.0": {
+    "aws.client/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
