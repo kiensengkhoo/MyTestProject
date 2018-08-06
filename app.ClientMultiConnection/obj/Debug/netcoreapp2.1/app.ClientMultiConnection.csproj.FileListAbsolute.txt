@@ -1,0 +1,10 @@
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\bin\Debug\netcoreapp2.1\app.ClientMultiConnection.deps.json
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\bin\Debug\netcoreapp2.1\app.ClientMultiConnection.runtimeconfig.json
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\bin\Debug\netcoreapp2.1\app.ClientMultiConnection.runtimeconfig.dev.json
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\bin\Debug\netcoreapp2.1\app.ClientMultiConnection.dll
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\bin\Debug\netcoreapp2.1\app.ClientMultiConnection.pdb
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\obj\Debug\netcoreapp2.1\app.ClientMultiConnection.csproj.CoreCompileInputs.cache
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\obj\Debug\netcoreapp2.1\app.ClientMultiConnection.AssemblyInfoInputs.cache
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\obj\Debug\netcoreapp2.1\app.ClientMultiConnection.AssemblyInfo.cs
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\obj\Debug\netcoreapp2.1\app.ClientMultiConnection.dll
+c:\users\ieuser\source\repos\app.ClientMultiConnection\app.ClientMultiConnection\obj\Debug\netcoreapp2.1\app.ClientMultiConnection.pdb
